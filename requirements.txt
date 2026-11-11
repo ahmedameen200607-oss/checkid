@@ -1,0 +1,8 @@
+streamlit==1.40.2
+streamlit-webrtc==0.79.1
+av==18.1.0
+tensorflow==2.15.1
+numpy==1.26.4
+opencv-python-headless==4.10.0.84
+protobuf==4.25.9
+Pillow
